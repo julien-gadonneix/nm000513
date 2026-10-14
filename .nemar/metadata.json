@@ -1,0 +1,86 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Laurent Koessler": {},
+    "Eric Ternisien": {},
+    "Thierry Cecchin": {},
+    "Sophie Colnat-Coulbois": {},
+    "Louis Maillard": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/8wz3wvm9y5",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1007/s10548-014-0417-z",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21203/rs.3.rs-2201044/v1",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000513",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000513",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "title": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources (interictal spike epochs)",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "726 MB (37 files)"
+  ],
+  "formats": [
+    ".docx",
+    ".eeg",
+    ".json",
+    ".mat",
+    ".py",
+    ".tsv",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "Simultaneous scalp EEG and stereo-EEG (SEEG) recordings of interictal spike epochs from mesial temporal networks in seven patients with temporal lobe epilepsy (nine networks, 1945 spike epochs). Each epoch is 1 s long and centred on the peak of the earliest, highest-amplitude intracerebral interictal spike, band-pass filtered 1.5-30 Hz. The dataset supports investigation of how deep mesial temporal sources are reflected in scalp EEG.",
+  "methods_description": "Recordings used a 128-channel system at 512 Hz with an analog 0.15 Hz high-pass filter and a scalp FPz reference. Earliest interictal intracerebral spikes were marked at the peak of the initial component (t0). Bipolar SEEG channels and scalp EEG were segmented into 1 s epochs around t0, band-pass filtered 1.5-30 Hz, with no artifact rejection.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "SEEG"
+    },
+    {
+      "term": "Epilepsy, Temporal Lobe",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004833"
+    },
+    {
+      "term": "interictal spikes"
+    },
+    {
+      "term": "mesial temporal lobe"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    }
+  ],
+  "source_hash": "5d9a6ec70cd3f17d4baf6a401558f725ff04c39d622c5c7d3aa76659fcb201d8"
+}
