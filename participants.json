@@ -1,0 +1,14 @@
+{
+  "age": {
+    "Description": "not given per patient (release: mean age 38 years over the 7 patients)"
+  },
+  "sex": {
+    "Description": "not given per patient (release: three females)"
+  },
+  "source_id": {
+    "Description": "patient number in the release folder names (P<p>_N<n>)"
+  },
+  "networks": {
+    "Description": "release folders (patient_network) of this participant; N<n> -> acq-net<n>"
+  }
+}

@@ -1,0 +1,8 @@
+participant_id	age	sex	source_id	networks
+sub-01	n/a	n/a	P1	P1_N1,P1_N2
+sub-02	n/a	n/a	P2	P2_N3
+sub-03	n/a	n/a	P3	P3_N4,P3_N5
+sub-04	n/a	n/a	P4	P4_N6
+sub-05	n/a	n/a	P5	P5_N7
+sub-06	n/a	n/a	P6	P6_N8
+sub-07	n/a	n/a	P7	P7_N9

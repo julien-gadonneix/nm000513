@@ -1,0 +1,31 @@
+{
+  "TaskName": "iis",
+  "TaskDescription": "Interictal recording; 1-s epochs centred on the peak of the initial component of an interictal intracerebral spike (IIS) of one mesial temporal network, marked manually (t0)",
+  "Manufacturer": "n/a",
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "BandPass": {
+      "Description": "1.5-30 Hz band-pass (release description)"
+    }
+  },
+  "HardwareFilters": {
+    "HighPass": {
+      "CutoffFrequency": 0.15
+    }
+  },
+  "iEEGReference": "Recorded against scalp FPz; SEEG channels released as bipolar derivations of adjacent contacts",
+  "iEEGGround": "n/a",
+  "iEEGPlacementScheme": "Stereotactic depth electrodes, mesial and lateral temporal lobe (see README)",
+  "ElectricalStimulation": false,
+  "RecordingType": "epoched",
+  "SamplingFrequency": 512.0,
+  "RecordingDuration": 160.0,
+  "EpochLength": 1.0,
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 75,
+  "DBSChannelCount": 0,
+  "EEGChannelCount": 13,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0
+}

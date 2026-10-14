@@ -1,0 +1,27 @@
+{
+  "onset": {
+    "Description": "Start of the trial segment in this file (trials are written back-to-back)",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Length of the trial segment",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "First sample of the trial segment in the file (0-based)"
+  },
+  "trial_index": {
+    "Description": "Trial number in the released file (1-based, release order)"
+  },
+  "trial_time_start": {
+    "Description": "Authors' time axis value of the first sample of the trial (s, relative to the trial's event; n/a if not released)",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "IIS = interictal intracerebral spike epoch"
+  },
+  "t0_onset": {
+    "Description": "Time of the spike peak (t0) relative to the start of the epoch; epochs are 1 s centred on t0 (release description)",
+    "Units": "s"
+  }
+}

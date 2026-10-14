@@ -1,0 +1,43 @@
+{
+  "Name": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources (interictal spike epochs)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Laurent Koessler",
+    "Eric Ternisien",
+    "Thierry Cecchin",
+    "Sophie Colnat-Coulbois",
+    "Louis Maillard"
+  ],
+  "HowToAcknowledge": "Cite the Mendeley Data record doi:10.17632/8wz3wvm9y5 and Koessler et al. 2015 (Brain Topogr) / Ternisien et al.",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.17632/8wz3wvm9y5",
+    "https://doi.org/10.1007/s10548-014-0417-z",
+    "https://doi.org/10.21203/rs.3.rs-2201044/v1"
+  ],
+  "Keywords": [
+    "SEEG",
+    "EEG",
+    "simultaneous EEG-SEEG",
+    "interictal spikes",
+    "temporal lobe epilepsy",
+    "mesial temporal"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://data.mendeley.com/datasets/8wz3wvm9y5",
+      "DOI": "doi:10.17632/8wz3wvm9y5",
+      "Version": "as downloaded 2026-10-11"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "cv4_conv_lit24.py",
+      "Description": "release cell arrays -> epoched BrainVision; code in code/"
+    }
+  ],
+  "EthicsApprovals": [
+    "Local ethics committee, CHRU Nancy (release description)"
+  ]
+}

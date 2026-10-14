@@ -1,0 +1,103 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	group	status	status_description	description
+Pb1_2	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb2_3	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb3_4	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb4_5	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb5_6	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb6_7	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb7_8	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb8_9	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Pb9_10	SEEG	µV	1.5	30	512.0	bipolar	Pb	good	n/a	bipolar derivation between adjacent contacts
+Ab1_2	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab2_3	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab3_4	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab4_5	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab10_11	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab11_12	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab12_13	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab13_14	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Ab14_15	SEEG	µV	1.5	30	512.0	bipolar	Ab	good	n/a	bipolar derivation between adjacent contacts
+Bb1_2	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb2_3	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb3_4	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb4_5	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb5_6	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb6_7	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb10_11	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb11_12	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Bb12_13	SEEG	µV	1.5	30	512.0	bipolar	Bb	good	n/a	bipolar derivation between adjacent contacts
+Cb1_2	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb2_3	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb3_4	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb9_10	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb10_11	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb11_12	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb12_13	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+Cb13_14	SEEG	µV	1.5	30	512.0	bipolar	Cb	good	n/a	bipolar derivation between adjacent contacts
+TBb1_2	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb2_3	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb3_4	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb4_5	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb5_6	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb6_7	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb7_8	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb8_9	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TBb9_10	SEEG	µV	1.5	30	512.0	bipolar	TBb	good	n/a	bipolar derivation between adjacent contacts
+TMb1_2	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb2_3	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb3_4	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb4_5	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb5_6	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb9_10	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb10_11	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+TMb11_12	SEEG	µV	1.5	30	512.0	bipolar	TMb	good	n/a	bipolar derivation between adjacent contacts
+Fb1_2	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb2_3	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb3_4	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb4_5	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb5_6	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb6_7	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb7_8	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb8_9	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb9_10	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb10_11	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Fb11_12	SEEG	µV	1.5	30	512.0	bipolar	Fb	good	n/a	bipolar derivation between adjacent contacts
+Tb1_2	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb2_3	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb3_4	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb4_5	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb5_6	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb6_7	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+Tb7_8	SEEG	µV	1.5	30	512.0	bipolar	Tb	good	n/a	bipolar derivation between adjacent contacts
+B1_2	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B2_3	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B3_4	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B4_5	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B5_6	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B6_7	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B11_12	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B12_13	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B13_14	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+B14_15	SEEG	µV	1.5	30	512.0	bipolar	B	good	n/a	bipolar derivation between adjacent contacts
+TB1_2	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB2_3	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB3_4	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB4_5	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB5_6	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB6_7	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB7_8	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB8_9	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+TB9_10	SEEG	µV	1.5	30	512.0	bipolar	TB	good	n/a	bipolar derivation between adjacent contacts
+sFT9	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sAF7	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sT3	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sF3	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sFZ	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sF4	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sC3	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sCZ	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sC4	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sP3	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sPZ	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sP4	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG
+sFT10	EEG	µV	1.5	30	512.0	FPz	scalp	good	n/a	scalp EEG

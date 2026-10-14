@@ -1,0 +1,54 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-07_task-iis_acq-net9_ieeg.eeg
+
+[Marker Infos]
+Mk1=New Segment,,1,1,0
+Mk2=New Segment,trial 2,513,1,0
+Mk3=New Segment,trial 3,1025,1,0
+Mk4=New Segment,trial 4,1537,1,0
+Mk5=New Segment,trial 5,2049,1,0
+Mk6=New Segment,trial 6,2561,1,0
+Mk7=New Segment,trial 7,3073,1,0
+Mk8=New Segment,trial 8,3585,1,0
+Mk9=New Segment,trial 9,4097,1,0
+Mk10=New Segment,trial 10,4609,1,0
+Mk11=New Segment,trial 11,5121,1,0
+Mk12=New Segment,trial 12,5633,1,0
+Mk13=New Segment,trial 13,6145,1,0
+Mk14=New Segment,trial 14,6657,1,0
+Mk15=New Segment,trial 15,7169,1,0
+Mk16=New Segment,trial 16,7681,1,0
+Mk17=New Segment,trial 17,8193,1,0
+Mk18=New Segment,trial 18,8705,1,0
+Mk19=New Segment,trial 19,9217,1,0
+Mk20=New Segment,trial 20,9729,1,0
+Mk21=New Segment,trial 21,10241,1,0
+Mk22=New Segment,trial 22,10753,1,0
+Mk23=New Segment,trial 23,11265,1,0
+Mk24=New Segment,trial 24,11777,1,0
+Mk25=New Segment,trial 25,12289,1,0
+Mk26=New Segment,trial 26,12801,1,0
+Mk27=New Segment,trial 27,13313,1,0
+Mk28=New Segment,trial 28,13825,1,0
+Mk29=New Segment,trial 29,14337,1,0
+Mk30=New Segment,trial 30,14849,1,0
+Mk31=New Segment,trial 31,15361,1,0
+Mk32=New Segment,trial 32,15873,1,0
+Mk33=New Segment,trial 33,16385,1,0
+Mk34=New Segment,trial 34,16897,1,0
+Mk35=New Segment,trial 35,17409,1,0
+Mk36=New Segment,trial 36,17921,1,0
+Mk37=New Segment,trial 37,18433,1,0
+Mk38=New Segment,trial 38,18945,1,0
+Mk39=New Segment,trial 39,19457,1,0
+Mk40=New Segment,trial 40,19969,1,0
+Mk41=New Segment,trial 41,20481,1,0
+Mk42=New Segment,trial 42,20993,1,0
+Mk43=New Segment,trial 43,21505,1,0
+Mk44=New Segment,trial 44,22017,1,0
+Mk45=New Segment,trial 45,22529,1,0
+Mk46=New Segment,trial 46,23041,1,0
+Mk47=New Segment,trial 47,23553,1,0

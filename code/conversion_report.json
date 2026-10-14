@@ -1,0 +1,238 @@
+{
+  "runs": [
+    {
+      "n_trials": 273,
+      "n_samples": 139776,
+      "sfreq": 512.0,
+      "n_channels": 86,
+      "float32_max_abs_err": 5.859375005456968e-05,
+      "roundtrip_ok": true,
+      "duration_s": 273.0,
+      "stem": "sub-01_task-iis_acq-net1",
+      "source": "P1_N1",
+      "n_rows": 274,
+      "dropped_rows": [
+        {
+          "row": 274,
+          "n": 775,
+          "first": [
+            8.2,
+            4.68,
+            4.49,
+            6.44,
+            11.71
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 149,
+      "n_samples": 76288,
+      "sfreq": 512.0,
+      "n_channels": 86,
+      "float32_max_abs_err": 5.859375005456968e-05,
+      "roundtrip_ok": true,
+      "duration_s": 149.0,
+      "stem": "sub-01_task-iis_acq-net2",
+      "source": "P1_N2",
+      "n_rows": 150,
+      "dropped_rows": [
+        {
+          "row": 150,
+          "n": 775,
+          "first": [
+            -8.59,
+            -13.57,
+            -15.82,
+            -20.89,
+            -27.73
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 439,
+      "n_samples": 224768,
+      "sfreq": 512.0,
+      "n_channels": 96,
+      "float32_max_abs_err": 0.00023437500021827873,
+      "roundtrip_ok": true,
+      "duration_s": 439.0,
+      "stem": "sub-02_task-iis_acq-net3",
+      "source": "P2_N3",
+      "n_rows": 440,
+      "dropped_rows": [
+        {
+          "row": 440,
+          "n": 775,
+          "first": [
+            -47.26,
+            -49.41,
+            -49.31,
+            -43.65,
+            -41.99
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 170,
+      "n_samples": 87040,
+      "sfreq": 512.0,
+      "n_channels": 102,
+      "float32_max_abs_err": 0.00011718750010913936,
+      "roundtrip_ok": true,
+      "duration_s": 170.0,
+      "stem": "sub-03_task-iis_acq-net4",
+      "source": "P3_N4",
+      "n_rows": 171,
+      "dropped_rows": [
+        {
+          "row": 171,
+          "n": 775,
+          "first": [
+            46.97,
+            -80.37,
+            -207.51,
+            -273.04,
+            -272.55
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 93,
+      "n_samples": 47616,
+      "sfreq": 512.0,
+      "n_channels": 102,
+      "float32_max_abs_err": 0.00010742187487267074,
+      "roundtrip_ok": true,
+      "duration_s": 93.0,
+      "stem": "sub-03_task-iis_acq-net5",
+      "source": "P3_N5",
+      "n_rows": 94,
+      "dropped_rows": [
+        {
+          "row": 94,
+          "n": 775,
+          "first": [
+            37.79,
+            38.28,
+            38.18,
+            36.81,
+            38.67
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 160,
+      "n_samples": 81920,
+      "sfreq": 512.0,
+      "n_channels": 88,
+      "float32_max_abs_err": 0.00011718750010913936,
+      "roundtrip_ok": true,
+      "duration_s": 160.0,
+      "stem": "sub-04_task-iis_acq-net6",
+      "source": "P4_N6",
+      "n_rows": 161,
+      "dropped_rows": [
+        {
+          "row": 161,
+          "n": 775,
+          "first": [
+            15.72,
+            -0.39,
+            -11.71,
+            -19.33,
+            -25.78
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 367,
+      "n_samples": 187904,
+      "sfreq": 512.0,
+      "n_channels": 114,
+      "float32_max_abs_err": 0.00011718750010913936,
+      "roundtrip_ok": true,
+      "duration_s": 367.0,
+      "stem": "sub-05_task-iis_acq-net7",
+      "source": "P5_N7",
+      "n_rows": 368,
+      "dropped_rows": [
+        {
+          "row": 368,
+          "n": 775,
+          "first": [
+            6.64,
+            11.03,
+            7.22,
+            -1.46,
+            -6.05
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 247,
+      "n_samples": 126464,
+      "sfreq": 512.0,
+      "n_channels": 114,
+      "float32_max_abs_err": 0.00011718750010913936,
+      "roundtrip_ok": true,
+      "duration_s": 247.0,
+      "stem": "sub-06_task-iis_acq-net8",
+      "source": "P6_N8",
+      "n_rows": 248,
+      "dropped_rows": [
+        {
+          "row": 248,
+          "n": 775,
+          "first": [
+            -88.18,
+            -95.99,
+            -97.94,
+            -95.7,
+            -99.6
+          ],
+          "monotonic": false
+        }
+      ]
+    },
+    {
+      "n_trials": 47,
+      "n_samples": 24064,
+      "sfreq": 512.0,
+      "n_channels": 77,
+      "float32_max_abs_err": 0.00011718750010913936,
+      "roundtrip_ok": true,
+      "duration_s": 47.0,
+      "stem": "sub-07_task-iis_acq-net9",
+      "source": "P7_N9",
+      "n_rows": 48,
+      "dropped_rows": [
+        {
+          "row": 48,
+          "n": 775,
+          "first": [
+            -16.5,
+            -15.72,
+            -19.14,
+            -21.97,
+            -22.65
+          ],
+          "monotonic": false
+        }
+      ]
+    }
+  ]
+}
