@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources (interictal spike epochs)",
+  "description": "This dataset contains nine simultaneous scalp EEG and stereo-EEG (SEEG) recordings of mesial temporal networks from seven patients with temporal lobe epilepsy. Each recording consists of 1 s epochs centred on the earliest, highest-amplitude interictal intracerebral spikes, with bipolar SEEG channels and 128-channel scalp EEG. In total, 1945 spike epochs are provided, which makes the data suitable for studying how deep mesial temporal sources appear on the scalp.",
+  "methods_description": "Simultaneous recordings were acquired with a 128-channel system at 512 Hz, with an analog 0.15 Hz high-pass filter and a scalp FPz reference. The earliest, highest-amplitude interictal intracerebral spikes were marked at the peak of the initial component (t0). EEG and SEEG segments are 1 s epochs centred on t0, band-pass filtered at 1.5-30 Hz, with no artifact rejection.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Laurent Koessler": {},
     "Eric Ternisien": {},
@@ -8,6 +13,28 @@
     "Sophie Colnat-Coulbois": {},
     "Louis Maillard": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "SEEG"
+    },
+    {
+      "term": "simultaneous EEG-SEEG"
+    },
+    {
+      "term": "interictal spikes"
+    },
+    {
+      "term": "Epilepsy, Temporal Lobe",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004833"
+    },
+    {
+      "term": "mesial temporal"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.17632/8wz3wvm9y5",
@@ -17,7 +44,7 @@
     {
       "identifier": "10.1007/s10548-014-0417-z",
       "identifier_type": "DOI",
-      "relation_type": "IsDescribedBy"
+      "relation_type": "References"
     },
     {
       "identifier": "10.21203/rs.3.rs-2201044/v1",
@@ -35,14 +62,11 @@
       "relation_type": "IsDescribedBy"
     }
   ],
-  "title": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources (interictal spike epochs)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "726 MB (37 files)"
   ],
@@ -51,36 +75,12 @@
     ".eeg",
     ".json",
     ".mat",
+    ".md",
     ".py",
     ".tsv",
     ".vhdr",
-    ".vmrk"
+    ".vmrk",
+    ".yml"
   ],
-  "description": "Simultaneous scalp EEG and stereo-EEG (SEEG) recordings of interictal spike epochs from mesial temporal networks in seven patients with temporal lobe epilepsy (nine networks, 1945 spike epochs). Each epoch is 1 s long and centred on the peak of the earliest, highest-amplitude intracerebral interictal spike, band-pass filtered 1.5-30 Hz. The dataset supports investigation of how deep mesial temporal sources are reflected in scalp EEG.",
-  "methods_description": "Recordings used a 128-channel system at 512 Hz with an analog 0.15 Hz high-pass filter and a scalp FPz reference. Earliest interictal intracerebral spikes were marked at the peak of the initial component (t0). Bipolar SEEG channels and scalp EEG were segmented into 1 s epochs around t0, band-pass filtered 1.5-30 Hz, with no artifact rejection.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "SEEG"
-    },
-    {
-      "term": "Epilepsy, Temporal Lobe",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004833"
-    },
-    {
-      "term": "interictal spikes"
-    },
-    {
-      "term": "mesial temporal lobe"
-    },
-    {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    }
-  ],
-  "source_hash": "5d9a6ec70cd3f17d4baf6a401558f725ff04c39d622c5c7d3aa76659fcb201d8"
+  "source_hash": "724deb2b427857627a5d73f6957a331ef5b5c86a2ba7f06249973f6a6ac8f20d"
 }
