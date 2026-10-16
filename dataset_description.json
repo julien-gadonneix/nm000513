@@ -1,5 +1,5 @@
 {
-  "Name": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources (interictal spike epochs)",
+  "Name": "Koessler-2015-catching-10.1007/s10548-014-0417-z",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-4.0",
@@ -41,5 +41,5 @@
     "Local ethics committee, CHRU Nancy (release description)"
   ],
   "DatasetDOI": "10.82901/nemar.nm000513",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
