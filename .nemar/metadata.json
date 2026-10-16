@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Koessler-2015-catching-10.1007/s10548-014-0417-z",
-  "description": "Simultaneous scalp EEG and stereo-EEG (SEEG) recordings from seven patients with temporal lobe epilepsy, covering nine mesial temporal networks. The dataset contains 1945 one-second epochs centred on the earliest, highest-amplitude interictal intracerebral spikes, with band-pass filtering at 1.5-30 Hz. It supports study of how deep mesial temporal sources contribute to scalp EEG and the detection of such sources.",
-  "methods_description": "Recordings used a 128-channel system at 512 Hz with an analog 0.15 Hz high-pass filter and an FPz scalp reference. Bipolar SEEG channels and scalp EEG were recorded simultaneously. The earliest interictal intracerebral spikes with the highest amplitude were marked at the peak of the initial component (t0). Epochs of 1 s centred on t0 were band-pass filtered at 1.5-30 Hz, without artifact rejection.",
+  "title": "Simultaneous EEG-SEEG recordings of deep mesial temporal sources",
+  "description": "This dataset contains nine simultaneous scalp EEG and stereo-EEG (SEEG) recordings of mesial temporal networks from seven patients with temporal lobe epilepsy. For each network, the earliest and highest-amplitude interictal intracerebral spikes were marked, and 1 s epochs centred on the spike peak are provided for both SEEG and scalp EEG channels. The data support research on how deep mesial temporal sources contribute to scalp EEG and on detecting them non-invasively.",
+  "methods_description": "Recordings were acquired with a 128-channel system at 512 Hz, with a 0.15 Hz analog high-pass filter and a scalp FPz reference. Interictal intracerebral spikes were marked at the peak of the initial component (t0). Epochs of 1 s centred on t0 were band-pass filtered at 1.5-30 Hz, with no artifact rejection. Bipolar SEEG channels were stored together with the scalp EEG channels in BrainVision format.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -32,7 +32,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004833"
     },
     {
-      "term": "mesial temporal sources"
+      "term": "mesial temporal lobe"
     }
   ],
   "related_identifiers": [
@@ -82,5 +82,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "51d2e45a53aa209ba3c6580c4ddef334c6cccae484d77a5b5362592b38930daf"
+  "source_hash": "348e25d0b6da33dc32859ca211f4256b5972251190005f36abb02e95b904e327"
 }
