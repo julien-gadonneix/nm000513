@@ -1,2 +1,5 @@
+1.0.3 2026-10-21
+  - SEEG channels.tsv high_cutoff n/a (was 30) and ieeg.json filter note: the 30 Hz low-pass is present in the scalp EEG channels only.
+
 1.0.0 2026-10-14
   - Converted from Mendeley Data 8wz3wvm9y5 (ieeg-nemar convert_20261014 slice 4).

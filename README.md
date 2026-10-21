@@ -14,6 +14,9 @@ analog 0.15 Hz high-pass, scalp FPz reference. Approved by the local ethics comm
 - One epoched BrainVision file per network: the bipolar SEEG channels (labels `<shaft><i>_<j>`, typed SEEG) followed by the
   simultaneous scalp EEG channels (release labels prefixed `s`, typed EEG), µV, float32, epochs written back to back
   (`New Segment` marker per epoch); `events.tsv` gives one row per epoch with t0 at 0.5 s.
+- Filters: the release states 1.5-30 Hz for EEG and SEEG, but only the scalp EEG channels show the 30 Hz low-pass (more than
+  60 dB below the 3-20 Hz level at 35 Hz). The SEEG spectrum falls smoothly with no edge at 30 Hz (about -23 dB at 60 Hz and
+  -40 dB at 200 Hz) and has 50 and 150 Hz line-noise peaks in 5 of 9 networks, so the SEEG `high_cutoff` is n/a.
 - Units: µV, from the release description (amplitudes and thresholds are given in µV); the .mat files do not store units.
 - Each release cell array has one extra last row with a different length (775 samples) that is not a 512-sample epoch;
   it is not written to the BIDS runs (kept in sourcedata; see `code/conversion_report.json`, `dropped_rows`).

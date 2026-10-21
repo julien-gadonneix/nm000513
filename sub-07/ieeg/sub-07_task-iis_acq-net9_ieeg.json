@@ -5,7 +5,7 @@
   "PowerLineFrequency": 50,
   "SoftwareFilters": {
     "BandPass": {
-      "Description": "1.5-30 Hz band-pass (release description)"
+      "Description": "1.5-30 Hz band-pass (release description); the 30 Hz low-pass is present in the scalp EEG channels only: the SEEG spectrum has no 30 Hz edge (about -40 dB at 200 Hz relative to 3-20 Hz) and 50/150 Hz line-noise peaks in 5 of 9 networks"
     }
   },
   "HardwareFilters": {
